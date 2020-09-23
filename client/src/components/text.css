@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Oswald;
+    src: url(./oswald-light-webfont.woff);
+  }
+
+@font-face{
+    font-family: Monolith;
+    src: url(./MonolithFreebie-LightItalic.woff);
+}

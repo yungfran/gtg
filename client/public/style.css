@@ -1,0 +1,18 @@
+body {
+  margin: 0px;
+}
+
+#root {
+  font-size: 20px;
+  color: black;
+  font-family: Oswald;
+}
+
+
+html { 
+  background: url(pictures/bg2.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
